@@ -1,2 +1,4 @@
 # Unit-Length-Converter
-Coming soon to a github near you!
+Inspired by Code Bustler
+Project is used to learn HTML, CSS and JavaScript together
+
